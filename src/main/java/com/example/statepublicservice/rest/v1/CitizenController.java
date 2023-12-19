@@ -1,6 +1,5 @@
 package com.example.statepublicservice.rest.v1;
 
-import com.example.statepublicservice.db.models.Citizen;
 import com.example.statepublicservice.rest.v1.dto.CitizenDto;
 import com.example.statepublicservice.rest.v1.dto.requests.CitizenRegistrationRequest;
 import com.example.statepublicservice.service.CitizenService;
